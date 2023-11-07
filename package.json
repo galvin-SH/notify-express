@@ -1,0 +1,16 @@
+{
+    "name": "notify-express",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Matthew Galvin",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "keywords": [],
+    "description": "This is a note taking application that can be used to write and save notes, using express.js to retrieve and write data to a json file."
+}
