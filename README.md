@@ -50,6 +50,10 @@ This project is not currently seeking any collaborators
 
 This project does not currently implement any test functionality
 
+## Credits
+
+Starter code for this student project was retrieved from [this repository](https://github.com/coding-boot-camp/miniature-eureka)
+
 ## Questions
 
 If you have any questions or concerns regarding this project my github profile can be located by using the following link
